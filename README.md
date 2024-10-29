@@ -1,7 +1,7 @@
 # Baileys-Bot-Whatsapp
 Baileys Bot Whatsapp Using @whiskeysockets/baileys From/By Kangwifi (KFAI)
 
-***This Code is not Original from [Nikesyg](https://github.com/Nikesyg2). Its created by @gpt-kfai***
+***This Code is not Original from [Nikesyg](https://github.com/Nikesyg2). Its created by [Kangwifi](https://github.com/gpt-kfai)***
 
 > [!WARNING]
 > This is free, please don't sell it (I know you won't).
